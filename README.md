@@ -1,6 +1,5 @@
 # travel-agency
 
-# bouchaibalaghrouch.github.io
 Responsive Travel Website Design Using HTML CSS and JavaScript
 
 Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
